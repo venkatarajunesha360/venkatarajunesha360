@@ -11,7 +11,7 @@ Hi there! I'm an **AI Engineer** passionate about building scalable AI solutions
 - **Machine Learning Frameworks**: TensorFlow, PyTorch, Scikit-learn  
 - **Programming Languages**: Python, JavaScript  
 - **Data Engineering**: Pandas, NumPy, SQL  
-- **Web Development**: Streamlit,FastAPI,Flask  
+- **Web Development**: Streamlit, FastAPI, Flask  
 - **AI Applications**: Noise Suppression, Packet Loss Concealment, Accent Conversion  
 
 🌟 Currently participating in the **AI Mathematical Olympiad Progress Prize 2** competition, focusing on developing models to solve complex LaTeX-encoded mathematical problems.
